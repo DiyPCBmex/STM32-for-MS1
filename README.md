@@ -1,0 +1,1 @@
+Para que funcione hay que sustituir el mosfet driver por el TC4424, ademas de cambiar los valores de resistencias del divisor de voltaje que envia la referencia de 12V al procesador de ahi en mas solo son ajustes en tunerstudio
